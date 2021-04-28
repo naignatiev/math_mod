@@ -1,7 +1,7 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Лабораторная №3
+title: Лабораторная №4
 subtitle: Модель хищник-жертва
 author: |
 	Николай Игнатьев\inst{1}
