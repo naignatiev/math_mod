@@ -30,17 +30,19 @@ sansfont: PT Serif
 ## Модель 1. Без партизан.
 $$\frac{dx}{dt}=-0.12x(t)-0.9y(t)+|sin(t)|$$
 $$\frac{dy}{dt}=-0.3x(t)-0.1y(t)+|cos(t)|$$
-![График 1](../source/lab02_model1.png)
+![График 1](../source/lab02_model1.png){ #fig:001 width=70% }
+
 ## Модель 2. Без партизан.
 $$\frac{dx}{dt}=-0.5x(t)-10y(t)+|sin(t)|$$
 $$\frac{dy}{dt}=-0.1x(t)-0.01y(t)+|cos(t)|$$
-![График 2](../source/lab02_model2.png)
+![График 2](../source/lab02_model2.png){ #fig:001 width=70% }
+
 ## Модель 3. С партизанами.
 $$\frac{dx}{dt}=-0.25x(t)-0.96y(t)+sin(2t)+1$$
 $$\frac{dy}{dt}=-0.25x(t)y(t)-0.3y(t)+cos(20t)+1$$
-![График 3](../source/lab02_model3.png)
+![График 3](../source/lab02_model3.png){ #fig:001 width=70% }
+
 ## Модель 4. С партизанами.
 $$\frac{dx}{dt}=-0.2x(t)-10y(t)+sin(2t)+1$$
 $$\frac{dy}{dt}=-0.0000001x(t)y(t)-0.0000001y(t)+cos(20t)+1$$
-![Графика 4](../source/lab02_model4.png)
-
+![Графика 4](../source/lab02_model4.png){ #fig:001 width=70% }
