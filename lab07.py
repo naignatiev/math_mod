@@ -42,5 +42,6 @@ solve_for_init([7.2, 9.1, 0], fig_name='case1.png')
 plt.title('Случай 2')
 solve_for_init([7.2, 9.1, 0.00048], fig_name='case2.png')
 
-
-
+# plt.title('Стационарное решение')
+#
+# _a = N * q * (1 - p)
